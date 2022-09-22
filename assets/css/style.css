@@ -18,7 +18,7 @@ body {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #984447;
+    background-color: #b6650e;
 }
 
 #header img {
@@ -29,7 +29,7 @@ body {
 }
 
 #header img:hover {
-    transition: 0.70s;
+    transition: 1.20s;
 transform: rotate(720deg);
 }
 
@@ -39,7 +39,7 @@ transform: rotate(720deg);
 }
 
 #content {
-    background-color: #add9f4;
+    background-color: #e79703;
     color: #000000;
     padding: 50px;
 }                       
@@ -65,7 +65,7 @@ transform: rotate(720deg);
 }
 
 #experimental {
-    background-color: #476c9b;
+    background-color: #e66611;
     height: 500px;
     padding: 50px;
 }
@@ -75,7 +75,7 @@ transform: rotate(720deg);
 }
 
 #loadingbar {
-    background-color: #984447;
+    background-color: #ff0009;
     width: 50px;
     animation-name: loadingbar;
     animation-duration: 6s;
