@@ -44,7 +44,7 @@ transform: rotate(720deg);
     padding: 50px;
 }                       
 
-*content h2 {
+#content h2 {
     text-align: center;
 }
 
